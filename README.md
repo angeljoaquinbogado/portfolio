@@ -1,23 +1,60 @@
 # Portfolio — Ángel Joaquín Bogado
 
-Portfolio personal de Ángel Joaquín Bogado, estudiante de Licenciatura en Sistemas en la UNGS.
+Portfolio personal orientado a oportunidades **trainee / junior en IT y desarrollo web**.
 
-## Abrir localmente
+**Demo:** https://portfolio-angelbogado.vercel.app/
 
-La forma más simple es abrir `index.html` en el navegador.
+## Sobre el portfolio
 
-En Visual Studio Code también podés usar la extensión **Live Server**:
+El sitio reúne mi presentación profesional, conocimientos, proyectos y CV.
 
-1. Abrí esta carpeta completa en VS Code.
-2. Hacé clic derecho sobre `index.html`.
-3. Elegí **Open with Live Server**.
+Los proyectos principales que muestro actualmente son:
+
+- **Dorado Artículos de Pesca** — e-commerce con catálogo, carrito, checkout, panel Admin, seguimiento, Supabase/PostgreSQL y backend serverless.
+- **FER ELECTRO** — e-commerce con Mercado Pago, webhook, gestión de stock, pedidos, panel Admin y confirmaciones por email.
+
+## Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Git / GitHub
+- Vercel
 
 ## Estructura
 
-- `index.html` — sitio completo.
-- `assets/perfil.png` — foto de perfil.
-- `CV_Angel_Joaquin_Bogado.pdf` — CV para descargar/ver desde el portfolio.
+```text
+.
+├── index.html
+├── assets/
+│   └── perfil.png
+├── CV_Angel_Joaquin_Bogado.pdf
+└── README.md
+```
 
-## Publicación
+## Ejecutar localmente
 
-El proyecto es estático y puede desplegarse directamente en Vercel sin configuración adicional.
+La forma más simple es abrir `index.html` en el navegador.
+
+En Visual Studio Code también se puede utilizar **Live Server**:
+
+1. Abrir la carpeta completa.
+2. Hacer clic derecho sobre `index.html`.
+3. Seleccionar **Open with Live Server**.
+
+## Deploy
+
+El proyecto es estático y está desplegado en Vercel.
+
+Los cambios enviados a la rama `main` se reflejan en el deploy conectado al repositorio.
+
+## Proyectos
+
+- [Dorado Artículos de Pesca](https://github.com/angeljoaquinbogado/Dorado-Art-Pesca)
+- [FER ELECTRO](https://github.com/angeljoaquinbogado/fer-electro)
+
+## Contacto
+
+- GitHub: https://github.com/angeljoaquinbogado
+- Portfolio: https://portfolio-angelbogado.vercel.app/
+- Email: angeljoaquinbogado@gmail.com
